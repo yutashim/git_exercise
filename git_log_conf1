@@ -1,0 +1,33 @@
+% git log conf2
+commit 2012f02fbb972abc2099b7a4a224fb4a4506d226 (conf2)
+Author: yuta <az7xj5xn@yahoo.co.jp>
+Date:   Mon Dec 28 17:07:53 2020 +0900
+
+    mjigwjesd
+
+commit 98933ec1889388dadbcf3ed62591768d6cb7d876
+Merge: 63bffa5 b2da5b5
+Author: yutashim <73504476+yutashim@users.noreply.github.com>
+Date:   Mon Dec 28 16:42:05 2020 +0900
+
+    Merge pull request #1 from yutashim/is#1
+
+    Is#1
+
+commit b2da5b5606ecbc7ec7bdf8777a8dd8ffaf7d0ef0 (is#1)
+Author: yuta <az7xj5xn@yahoo.co.jp>
+Date:   Mon Dec 28 16:40:43 2020 +0900
+
+    is#1
+
+commit 834b2828138332ad3eb8d8267ab807fc9e9edda5
+Author: yuta <az7xj5xn@yahoo.co.jp>
+Date:   Mon Dec 28 16:36:10 2020 +0900
+
+    is1
+
+commit 63bffa52d2efaa5a8aa9be7cb823a6480f197fc7
+Author: yuta <az7xj5xn@yahoo.co.jp>
+Date:   Mon Dec 28 16:34:13 2020 +0900
+
+    first
